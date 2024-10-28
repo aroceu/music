@@ -1,0 +1,133 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body{
+	background: var(--body);
+	font: normal 100%/140% 'Inconsolata';
+	color: #333;
+}
+
+#container{
+	background: var(--container);
+	width: 70vw;
+	margin: 0 auto;
+	border-left: solid 20px var(--body-border);
+	border-right: solid 20px var(--body-border);
+	padding: 5em 2em 2em;
+	min-height: 100vh;
+}
+
+#blurb{
+	margin: 2em auto;
+	width: 75%;
+}
+
+#list{
+	background-image: var(--list);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	min-height: 100%
+}
+
+h1{
+	color: var(--h1);
+	font: normal 300% 'Rochester', display;
+	text-align: center;
+}
+
+h2{
+	font: italic 150% 'Inconsolata';
+	text-align: center;
+}
+
+#playlist{
+	width: 75%;
+	margin: 0 auto;
+}
+
+table td:nth-child(1){
+	float: left;
+  text-align: left;
+  white-space: nowrap;
+}
+
+table.header th{
+	font-weight: bold;
+	text-transform: uppercase;
+}
+
+table td:nth-child(2), table th:nth-child(2){ 
+	content: "";
+  width: 100%;
+  }
+
+table.song td:nth-child(2) {
+  border-bottom: 1px dotted #000;
+}
+
+table td:nth-child(3) {
+  text-align: right;
+  float: right;
+  width: 100%;
+  font-size: 100%;
+  white-space: nowrap;
+  line-height: 14px;
+}
+
+table.header th:nth-child(3){
+text-align: right;
+  float: right;
+  width: 100%;
+  font-size: 100%;
+  white-space: nowrap;
+  line-height: 14px;
+  letter-spacing: 1px;
+}
+
+i{
+	color: var(--accent);
+}
+
+p{
+	padding-bottom: 2em;
+}
+
+a:link, a:visited{
+	color: var(--accent);
+}
+
+a:hover, a:focus{
+	color: #333;
+	text-decoration: none;
+}
+
+#playlist{
+	margin: -1.5em auto 2em;
+	background-image: var(--list);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	min-height: 100%
+}
+
+#navigation{
+	width: 75%;
+	margin: 0 auto;
+}
+
+.prev{
+	float: left;
+}
+
+.next{
+	float: right;
+	text-align: right;
+}
+
+#footer{
+	margin: 2.5em auto 0;
+	text-align: center;
+	width: 75%;
+}
