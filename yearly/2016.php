@@ -33,6 +33,8 @@
 
 		<?php include('lists/2016.php') ?>	
 
+	</div>
+
 	<div id="navigation">
 
 			<span class="prev">

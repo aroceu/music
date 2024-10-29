@@ -33,9 +33,7 @@
 
 		<div id="playlist">
 
-			<table class="header"><tr><th>Title</th> <th></th> <th>Artist (Album)</th></tr></table>
-
-			<?php include('playlistheader.php') ?>
+		<?php include('playlistheader.php') ?>
 
 		<?php include('lists/2021.php') ?>	
 

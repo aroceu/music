@@ -33,6 +33,8 @@
 
 		<?php include('lists/2020.php') ?>	
 
+	</div>
+
 	<div id="navigation">
 
 			<span class="prev">
@@ -43,5 +45,7 @@
 				<a href="2021">Next &rarr;</a>
 			</span>
 		</div>
+
+	</div>
 
 		<?php include('footer.php') ?>
