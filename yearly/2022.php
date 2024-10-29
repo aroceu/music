@@ -29,7 +29,7 @@
 		<p>I got more into Pentagon's discography this year, after I had gotten so charmed by it by the end of the previous year. I also got really into Thai dramas this year, specifically <i>Bad Buddy</i>, so that was a huge influence on my on-repeat too.</p>
 
 		<p align="center"><a href="https://open.spotify.com/playlist/5fynF2s18fxEOJtH2vfV2o?si=OZwKyjo7QZWaROwW6VpI8w" class="button">Listen on Spotify</a>
-			<br /><b>Count:</b> 45</p>
+			<br /><b>Count:</b> 35</p>
 
 		<?php include('playlistheader.php') ?>
 

@@ -24,10 +24,10 @@
 		<h1>arrow's year in music: 2018</h1>
 		<h2>manufactured dreams and a fabricated resolution</h2>
 
-		<div id="blurb">
+		<div id="blurb"><p>I have been an avid fan of Panic! at the Disco since 2006 - but this was the year that that took over into a hyperfixation for some reason. So even though I heard them before, I'm including these songs here again, just because I can.</p>
 
 		<p align="center"><a href="https://open.spotify.com/playlist/2M9ZJxVvnRKy6uljs1bGJo?si=oSWB3-_HSKmeWsve6tfOyw" class="button">Listen on Spotify</a>
-		<br /><b>Count:</b> </p>
+		<br /><b>Count:</b> 187</p>
 
 		<?php include('playlistheader.php') ?>
 

@@ -27,7 +27,7 @@
 		<div id="blurb">
 
 		<p align="center"><a href="https://open.spotify.com/playlist/4hrD1yaMYNqwqOQysgE7q1?si=mUQEHAl9RjCFYYs7LQFt3w" class="button">Listen on Spotify</a>
-		<br /><b>Count:</b> </p>
+		<br /><b>Count:</b> 68</p>
 
 		<?php include('playlistheader.php') ?>
 

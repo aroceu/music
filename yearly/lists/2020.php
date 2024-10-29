@@ -9,11 +9,6 @@
 			</table>
 
 			<table class="song">
-				<tr><td id="title">My Own Dance</td><td></td>
-				<td class="artist">Kesha (<i>High Road</i>)</td></tr>
-			</table>
-
-			<table class="song">
 				<tr><td id="title">Let's Be Friends</td><td></td>
 				<td class="artist">Carly Rae Jepsen</td></tr>
 			</table>
@@ -176,11 +171,6 @@
 			<table class="song">
 				<tr><td id="title">Dropped</td><td></td>
 				<td class="artist">Phantom Planet</td></tr>
-			</table>
-
-			<table class="song">
-				<tr><td id="title">Na Na Na</td><td></td>
-				<td class="artist">My Chemical Romance (<i>May Death Never Stop You</i>)</td></tr>
 			</table>
 
 			<table class="song">

@@ -388,4 +388,549 @@
 				<td class="artist">Panic! at the Disco (<I>Pray for the Wicked</I>)</td></tr>
 			</table>
 
-<!-- not done, resume at home -->
+
+			<table class="song">
+				<tr><td id="title">Say Amen (Saturday Night)</td><td></td>
+				<td class="artist">Panic! at the Disco (<I>Pray for the Wicked</I>)</td></tr>
+			</table>
+
+			<table class="song">
+				<tr><td id="title">Hey Look Ma, I Made It</td><td></td>
+				<td class="artist">Panic! at the Disco (<I>Pray for the Wicked</I>)</td></tr>
+			</table>
+
+			<table class="song">
+				<tr><td id="title">Dancing Not a Crime</td><td></td>
+				<td class="artist">Panic! at the Disco (<I>Pray for the Wicked</I>)</td></tr>
+			</table>
+
+			<table class="song">
+				<tr><td id="title">One of the Drunks</td><td></td>
+				<td class="artist">Panic! at the Disco (<I>Pray for the Wicked</I>)</td></tr>
+			</table>
+
+			<table class="song">
+				<tr><td id="title">Kind of the Clouds</td><td></td>
+				<td class="artist">Panic! at the Disco (<I>Pray for the Wicked</I>)</td></tr>
+			</table>
+
+			<table class="song">
+				<tr><td id="title">Old Fashioned</td><td></td>
+				<td class="artist">Panic! at the Disco (<I>Pray for the Wicked</I>)</td></tr>
+			</table>
+
+			<table class="song">
+				<tr><td id="title">Victorious</td><td></td>
+				<td class="artist">Panic! at the Disco (<I>Death of a Bachelor</I>)</td></tr>
+			</table>
+
+			<table class="song">
+				<tr><td id="title">Don't Threaten Me with a Good Time</td><td></td>
+				<td class="artist">Panic! at the Disco (<I>Death of a Bachelor</I>)</td></tr>
+			</table>
+
+			<table class="song">
+				<tr><td id="title">Emperor's New Clothes</td><td></td>
+				<td class="artist">Panic! at the Disco (<I>Death of a Bachelor</I>)</td></tr>
+			</table>
+
+			<table class="song">
+				<tr><td id="title">Crazy = Genius</td><td></td>
+				<td class="artist">Panic! at the Disco (<I>Death of a Bachelor</I>)</td></tr>
+			</table>
+
+			<table class="song">
+				<tr><td id="title">LA Devotee</td><td></td>
+				<td class="artist">Panic! at the Disco (<I>Death of a Bachelor</I>)</td></tr>
+			</table>
+
+			<table class="song">
+				<tr><td id="title">House of Memories</td><td></td>
+				<td class="artist">Panic! at the Disco (<I>Death of a Bachelor</I>)</td></tr>
+			</table>
+
+			<table class="song">
+				<tr><td id="title">Renegade</td><td></td>
+				<td class="artist">Paramore</td></tr>
+			</table>
+
+			<table class="song">
+				<tr><td id="title">Pok&eacute;rap</td><td></td>
+				<td class="artist">Pok&eacute;mon</td></tr>
+			</table>
+
+			<table class="song">
+				<tr><td id="title">At Your Window</td><td></td>
+				<td class="artist">Ryan Ross</td></tr>
+			</table>
+
+			<table class="song">
+				<tr><td id="title">I'm Down</td><td></td>
+				<td class="artist">Ryan Ross</td></tr>
+			</table>
+
+			<table class="song">
+				<tr><td id="title">Lonely Moonlight</td><td></td>
+				<td class="artist">Ryan Ross</td></tr>
+			</table>
+
+			<table class="song">
+				<tr><td id="title">Where I Belong</td><td></td>
+				<td class="artist">Ryan Ross</td></tr>
+			</table>
+
+			<table class="song">
+				<tr><td id="title">You're invited</td><td></td>
+				<td class="artist">Ryan Ross</td></tr>
+			</table>
+
+			<table class="song">
+				<tr><td id="title">The Haunting</td><td></td>
+				<td class="artist">Set It Off</td></tr>
+			</table>
+
+			<table class="song">
+				<tr><td id="title">Spicy Calamari Inkantation</td><td></td>
+				<td class="artist">Squid Sisters</td></tr>
+			</table>
+
+			<table class="song">
+				<tr><td id="title">Babe</td><td></td>
+				<td class="artist">Sugarland ft. Taylor Swift</td></tr>
+			</table>
+
+			<table class="song">
+				<tr><td id="title">Sweeter Than Fiction</td><td></td>
+				<td class="artist">Taylor Swift</td></tr>
+			</table>
+
+			<table class="song">
+				<tr><td id="title">Sweat</td><td></td>
+				<td class="artist">The All-American Rejects</td></tr>
+			</table>
+
+			<table class="song">
+				<tr><td id="title">Great DJ</td><td></td>
+				<td class="artist">The Ting Tings</td></tr>
+			</table>
+
+			<table class="song">
+				<tr><td id="title">Mistakes</td><td></td>
+				<td class="artist">Tove Styrke</td></tr>
+			</table>
+
+			<table class="song">
+				<tr><td id="title">Bloom</td><td></td>
+				<td class="artist">Troye Sivan</td></tr>
+			</table>
+
+			<table class="song">
+				<tr><td id="title">二時間だけのバカンス</td><td></td>
+				<td class="artist">Utada Hikaru ft. Sheena Ringo</td></tr>
+			</table>
+
+			<table class="song">
+				<tr><td id="title">I'm a Dreamer</td><td></td>
+				<td class="artist">Violet Days</td></tr>
+			</table>
+
+			<table class="song">
+				<tr><td id="title">Vacation</td><td></td>
+				<td class="artist">Vitamin C</td></tr>
+			</table>
+
+			<table class="song">
+				<tr><td id="title">Don't Slip</td><td></td>
+				<td class="artist">Wet Floor</td></tr>
+			</table>
+
+			<table class="song">
+				<tr><td id="title">BOOMBAYAH</td><td></td>
+				<td class="artist">BLACKPINK (<i>SQUARE ONE</i>)</td></tr>
+			</table>
+
+			<table class="song">
+				<tr><td id="title">WHISTLE</td><td></td>
+				<td class="artist">BLACKPINK (<i>SQUARE ONE</i>)</td></tr>
+			</table>
+
+			<table class="song">
+				<tr><td id="title">I Don't Give a 屑</td><td></td>
+				<td class="artist">Han Geng</td></tr>
+			</table>
+
+			<table class="song">
+				<tr><td id="title">HandClap</td><td></td>
+				<td class="artist">Fitz and The Trantrums</td></tr>
+			</table>
+
+			<table class="song">
+				<tr><td id="title">Choke</td><td></td>
+				<td class="artist">IDKHOWBUTTHEYFOUNDME</td></tr>
+			</table>
+
+			<table class="song">
+				<tr><td id="title">Modern Day Cain</td><td></td>
+				<td class="artist">IDKHOWBUTTHEYFOUNDME</td></tr>
+			</table>
+
+			<table class="song">
+				<tr><td id="title">Rush</td><td></td>
+				<td class="artist">John De Sohn ft. Violet Days</td></tr>
+			</table>
+
+			<table class="song">
+				<tr><td id="title">Panic</td><td></td>
+				<td class="artist">Name Taken</td></tr>
+			</table>
+
+			<table class="song">
+				<tr><td id="title">Girls / Girls / Boys</td><td></td>
+				<td class="artist">Panic! at the Disco (<i>Too Weird To Live, Too Rare To Die!</i>)</td></tr>
+			</table>
+
+			<table class="song">
+				<tr><td id="title">Casual Affair</td><td></td>
+				<td class="artist">Panic! at the Disco (<i>Too Weird To Live, Too Rare To Die!</i>)</td></tr>
+			</table>
+
+			<table class="song">
+				<tr><td id="title">The Calendar</td><td></td>
+				<td class="artist">Panic! at the Disco (<i>Vices & Virtues</i>)</td></tr>
+			</table>
+
+			<table class="song">
+				<tr><td id="title">Sarah Smiles</td><td></td>
+				<td class="artist">Panic! at the Disco (<i>Vices & Virtues</i>)</td></tr>
+			</table>
+
+			<table class="song">
+				<tr><td id="title">Folkin' Around</td><td></td>
+				<td class="artist">Panic! at the Disco (<i>Pretty.Odd.</i>)</td></tr>
+			</table>
+
+			<table class="song">
+				<tr><td id="title">Lying Is The Most Fun A Girl Can Have Without Taking Her Clothes Off</td><td></td>
+				<td class="artist">Panic! at the Disco (<i>A Fever You Can't Sweat Out</i>)</td></tr>
+			</table>
+
+			<table class="song">
+				<tr><td id="title">Do It All The Time</td><td></td>
+				<td class="artist">IDKHOWBUTTHEYFOUNDME</td></tr>
+			</table>
+
+			<table class="song">
+				<tr><td id="title">Killer In The MIrror</td><td></td>
+				<td class="artist">Set It Off</td></tr>
+			</table>
+
+			<table class="song">
+				<tr><td id="title">Body Talks</td><td></td>
+				<td class="artist">The Struts ft. Kesha</td></tr>
+			</table>
+
+			<table class="song">
+				<tr><td id="title">Dear Life</td><td></td>
+				<td class="artist">William Beckett (<i>What Will Be EP</i>)</td></tr>
+			</table>
+
+			<table class="song">
+				<tr><td id="title">If You're Over Me (remix)</td><td></td>
+				<td class="artist">Olly Alexander (Years & Years) ft. Key of SHINee</td></tr>
+			</table>
+
+			<table class="song">
+				<tr><td id="title">A Wolf in Sheep's Clothing</td><td></td>
+				<td class="artist">This Providence</td></tr>
+			</table>
+
+			<table class="song">
+				<tr><td id="title">This Is How I Disappear</td><td></td>
+				<td class="artist">My Chemical Romance (<i>The Black Parade</i>)</td></tr>
+			</table>
+
+			<table class="song">
+				<tr><td id="title">Famous Last Words</td><td></td>
+				<td class="artist">My Chemical Romance (<i>The Black Parade</i>)</td></tr>
+			</table>
+
+			<table class="song">
+				<tr><td id="title">Na Na Na</td><td></td>
+				<td class="artist">My Chemical Romance (<i>Danger Days</i>)</td></tr>
+			</table>
+
+			<table class="song">
+				<tr><td id="title">Wolf in Sheep's Clothing</td><td></td>
+				<td class="artist">Set It Off (<I>Duality</I>)</td></tr>
+			</table>
+
+			<table class="song">
+				<tr><td id="title">Hands On Me</td><td></td>
+				<td class="artist">Ariana Grande ft. A$AP Ferg (<i>My Everything</i>)</td></tr>
+			</table>
+
+			<table class="song">
+				<tr><td id="title">R.E.M.</td><td></td>
+				<td class="artist">Ariana Grande (<i>Sweetener</i>)</td></tr>
+			</table>
+
+			<table class="song">
+				<tr><td id="title">God is a woman</td><td></td>
+				<td class="artist">Ariana Grande (<i>Sweetener</i>)</td></tr>
+			</table>
+
+			<table class="song">
+				<tr><td id="title">sweetener</td><td></td>
+				<td class="artist">Ariana Grande (<i>Sweetener</i>)</td></tr>
+			</table>
+
+			<table class="song">
+				<tr><td id="title">no tears left to cry</td><td></td>
+				<td class="artist">Ariana Grande (<i>Sweetener</i>)</td></tr>
+			</table>
+
+			<table class="song">
+				<tr><td id="title">Clint Eastwood</td><td></td>
+				<td class="artist">Gorillaz</td></tr>
+			</table>
+
+			<table class="song">
+				<tr><td id="title">You Are In Love</td><td></td>
+				<td class="artist">Taylor Swift (<i>1989</i>)</td></tr>
+			</table>
+
+			<table class="song">
+				<tr><td id="title">Back To December</td><td></td>
+				<td class="artist">Taylor Swift (<i>Speak Now</i>)</td></tr>
+			</table>
+
+			<table class="song">
+				<tr><td id="title">Motherlover</td><td></td>
+				<td class="artist">The Lonely Island</td></tr>
+			</table>
+
+			<table class="song">
+				<tr><td id="title">212 / Bust A Move</td><td></td>
+				<td class="artist">The Outfit (<i>Pitch Perfect OST</i>)</td></tr>
+			</table>
+
+			<table class="song">
+				<tr><td id="title">Untouchable</td><td></td>
+				<td class="artist">Taylor Swift (<i>Fearless</i>)</td></tr>
+			</table>
+
+			<table class="song">
+				<tr><td id="title">Wilson (Expensive Mistakes)</td><td></td>
+				<td class="artist">Fall Out Boy (<i>MANIA</i>)</td></tr>
+			</table>
+
+			<table class="song">
+				<tr><td id="title">All out of Tears</td><td></td>
+				<td class="artist">Z Berg</td></tr>
+			</table>
+
+			<table class="song">
+				<tr><td id="title">Bittersweet</td><td></td>
+				<td class="artist">Panic! at the Disco (<i>Vices & Virtues</i>)</td></tr>
+			</table>
+
+			<table class="song">
+				<tr><td id="title">I Wanna Be Free</td><td></td>
+				<td class="artist">Panic! at the Disco (<i>Vices & Virtues</i>)</td></tr>
+			</table>
+
+			<table class="song">
+				<tr><td id="title">Kaleidoscope Eyes</td><td></td>
+				<td class="artist">Panic! at the Disco (<i>Vices & Virtues</i>)</td></tr>
+			</table>
+
+			<table class="song">
+				<tr><td id="title">Turn Off The Lights</td><td></td>
+				<td class="artist">Panic! at the Disco (<i>Vices & Virtues</i>)</td></tr>
+			</table>
+
+			<table class="song">
+				<tr><td id="title">All The Boys</td><td></td>
+				<td class="artist">Panic! at the Disco (<i>Vices & Virtues</i>)</td></tr>
+			</table>
+
+			<table class="song">
+				<tr><td id="title">Can't Fight Against The Youth</td><td></td>
+				<td class="artist">Panic! at the Disco (<i>Vices & Virtues</i>)</td></tr>
+			</table>
+
+			<table class="song">
+				<tr><td id="title">Drinking Games</td><td></td>
+				<td class="artist">Kyle Lucas ft. William Beckett</td></tr>
+			</table>
+
+			<table class="song">
+				<tr><td id="title">1999</td><td></td>
+				<td class="artist">Charli xcx ft. Troye Sivan</td></tr>
+			</table>
+
+			<table class="song">
+				<tr><td id="title">Woman Like Me</td><td></td>
+				<td class="artist">Little Mix ft. Nicki Minaj</td></tr>
+			</table>
+
+			<table class="song">
+				<tr><td id="title">Ain't Not Rest for the Weekend</td><td></td>
+				<td class="artist">Cage The Elephant</td></tr>
+			</table>
+
+			<table class="song">
+				<tr><td id="title">Vibe</td><td></td>
+				<td class="artist">Tove Styrke (<i>Sway</i>)</td></tr>
+			</table>
+
+			<table class="song">
+				<tr><td id="title">None Of My Business</td><td></td>
+				<td class="artist">Cher Lloyd</td></tr>
+			</table>
+
+			<table class="song">
+				<tr><td id="title">So Down</td><td></td>
+				<td class="artist">Mother Mother</td></tr>
+			</table>
+
+			<table class="song">
+				<tr><td id="title">Under Pressure</td><td></td>
+				<td class="artist">Shawn Mendes ft. teddy<3</td></tr>
+			</table>
+
+			<table class="song">
+				<tr><td id="title">Build God, Then We'll Talk</td><td></td>
+				<td class="artist">Panic! at the Disco (<i>A Fever You Can't Sweat Out</i>)</td></tr>
+			</table>
+
+			<table class="song">
+				<tr><td id="title">Baby You're a Haunted House</td><td></td>
+				<td class="artist">Gerard Way</td></tr>
+			</table>
+
+			<table class="song">
+				<tr><td id="title">The Greatest Show</td><td></td>
+				<td class="artist">Panic! at the Disco</td></tr>
+			</table>
+
+			<table class="song">
+				<tr><td id="title">Cocaine Kisses</td><td></td>
+				<td class="artist">Violet Days (<i>Made in My Head</i>)</td></tr>
+			</table>
+
+			<table class="song">
+				<tr><td id="title">I Think...</td><td></td>
+				<td class="artist">Violet Days (<i>Made in My Head</i>)</td></tr>
+			</table>
+
+			<table class="song">
+				<tr><td id="title">Party For One</td><td></td>
+				<td class="artist">Carly Rae Jepsen</td></tr>
+			</table>
+
+			<table class="song">
+				<tr><td id="title">Joan of Arc</td><td></td>
+				<td class="artist">Little Mix (<i>LM5</i>)</td></tr>
+			</table>
+
+			<table class="song">
+				<tr><td id="title">thank u, next</td><td></td>
+				<td class="artist">Ariana Grande</td></tr>
+			</table>
+
+			<table class="song">
+				<tr><td id="title">POP/STARS</td><td></td>
+				<td class="artist">K/DA ft. various</td></tr>
+			</table>
+
+			<table class="song">
+				<tr><td id="title">It's Alright</td><td></td>
+				<td class="artist">Mother Mother (<i>Dance And Cry</i>)</td></tr>
+			</table>
+
+			<table class="song">
+				<tr><td id="title">Absinthe</td><td></td>
+				<td class="artist">IDKHOWBUTTHEYFOUNDME</td></tr>
+			</table>
+
+			<table class="song">
+				<tr><td id="title">Typo</td><td></td>
+				<td class="artist">cucakKe (<i>Eden</i>)</td></tr>
+			</table>
+
+			<table class="song">
+				<tr><td id="title">Strip</td><td></td>
+				<td class="artist">Little Mix ft. Sharaya J (<i>LM5</i>)</td></tr>
+			</table>
+
+			<table class="song">
+				<tr><td id="title">Monster In Me</td><td></td>
+				<td class="artist">Little Mix (<i>LM5</i>)</td></tr>
+			</table>
+
+			<table class="song">
+				<tr><td id="title">Joan of Arc</td><td></td>
+				<td class="artist">Little Mix (<i>LM5</i>)</td></tr>
+			</table>
+
+			<table class="song">
+				<tr><td id="title">American Boy</td><td></td>
+				<td class="artist">Little Mix (<i>LM5</i>)</td></tr>
+			</table>
+
+			<table class="song">
+				<tr><td id="title">Wasabi</td><td></td>
+				<td class="artist">Little Mix (<i>LM5</i>)</td></tr>
+			</table>
+
+			<table class="song">
+				<tr><td id="title">The Cure</td><td></td>
+				<td class="artist">Little Mix (<i>LM5</i>)</td></tr>
+			</table>
+
+			<table class="song">
+				<tr><td id="title">Cape Town</td><td></td>
+				<td class="artist">The Young Veins (<i>Take a Vacation!</i>)</td></tr>
+			</table>
+
+			<table class="song">
+				<tr><td id="title">Dying in LA</td><td></td>
+				<td class="artist">Panic! at the Disco (<i>Pray For the Wicked</i>)</td></tr>
+			</table>
+
+			<table class="song">
+				<tr><td id="title">Far Too Young To Die (demo)</td><td></td>
+				<td class="artist">The Brobecks</td></tr>
+			</table>
+
+			<table class="song">
+				<tr><td id="title">Twin Skeletons (Hotel In NYC)</td><td></td>
+				<td class="artist">Fall Out Boy (<i>American Beauty/American Psycho</i>)</td></tr>
+			</table>
+
+			<table class="song">
+				<tr><td id="title">Favorite Record</td><td></td>
+				<td class="artist">Fall Out Boy (<i>American Beauty/American Psycho</i>)</td></tr>
+			</table>
+
+			<table class="song">
+				<tr><td id="title">Fourth Of July</td><td></td>
+				<td class="artist">Fall Out Boy (<i>American Beauty/American Psycho</i>)</td></tr>
+			</table>
+
+			<table class="song">
+				<tr><td id="title">Novocaine</td><td></td>
+				<td class="artist">Fall Out Boy (<i>American Beauty/American Psycho</i>)</td></tr>
+			</table>
+
+			<table class="song">
+				<tr><td id="title">Jet Pack Blues</td><td></td>
+				<td class="artist">Fall Out Boy (<i>American Beauty/American Psycho</i>)</td></tr>
+			</table>
+
+			<table class="song">
+				<tr><td id="title">The Kids Aren't Alright</td><td></td>
+				<td class="artist"></td></tr>
+			</table>
+

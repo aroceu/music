@@ -27,7 +27,7 @@
 		<div id="blurb"><p>Since I was still in my Thai drama obsession, there's a lot of Thai music here, as well as Pentagon Taylor Swift &mdash; I kind of unpopularly love <i>Midnights</i>, even though it took me a full year to get into it. I spent a lot of this year revisiting old music, mostly because I was bouncing between jobs, all of which let me listen to music while I worked.</p>
 
 		<p align="center"><a href="https://open.spotify.com/playlist/4SkN68D2DzzwC5vKuJ3YMc?si=85a84994da844007" class="button">Listen on Spotify</a>
-			<br /><b>Count:</b> 96</p>
+			<br /><b>Count:</b> 92</p>
 
 		<?php include('playlistheader.php') ?>
 
