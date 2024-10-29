@@ -76,19 +76,19 @@
 		<div id="menu">
 
 		<ul>
-			<li><a href="2024.html">2024</a></li>
-			<li><a href="2023.html">2023</a></li>
-			<li><a href="2022.html">2022</a></li>
-			<li><a href="2021.html">2021</a></li>
-			<li><a href="2020.html">2020</a></li>
-			<li><a href="2019.html">2019</a></li>
-			<li><a href="2018.html">2018</a></li>
-			<li><a href="2017.html">2017</a></li>
-			<li><a href="2016.html">2016</a></li>
-			<li><a href="2015.html">2015</a></li>
-			<li><a href="2014.html">2014</a></li>
-			<li><a href="2013.html">2013</a></li>
-			<li><a href="2012.html">2012</a></li>
+			<li><a href="2024">2024</a></li>
+			<li><a href="2023">2023</a></li>
+			<li><a href="2022">2022</a></li>
+			<li><a href="2021">2021</a></li>
+			<li><a href="2020">2020</a></li>
+			<li><a href="2019">2019</a></li>
+			<li><a href="2018">2018</a></li>
+			<li><a href="2017">2017</a></li>
+			<li><a href="2016">2016</a></li>
+			<li><a href="2015">2015</a></li>
+			<li><a href="2014">2014</a></li>
+			<li><a href="2013">2013</a></li>
+			<li><a href="2012">2012</a></li>
 
 		</ul>
 
@@ -97,7 +97,7 @@
 		
 
 		<div id="footer">
-			&copy; 2024 <a href="https://aroceu.com">aroceu</a> &#127926; <a href="/">music</a> &gt; <a href="index.html">yearly playlists</a>
+			&copy; 2024 <a href="https://aroceu.com">aroceu</a> &#127926; <a href="/">music</a> &gt; <a href="index">yearly playlists</a>
 		</div>
 
 	</div>

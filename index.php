@@ -21,7 +21,7 @@
 		:root{
 			--body: #E8A7BD linear-gradient(to top left, #E8A7BD 0%, #9384B5 100%);
 			--body-border: #9384B5;
-			--container: #E8A7BD linear-gradient(to top left, #9384B5 0%, #E8A7BD 100%); 
+			--container: #fafafa; 
 			--h1: #9384B5;
 			--h2: #333;
 			border:;
