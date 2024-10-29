@@ -49,12 +49,12 @@
 			width: 100%;
 			font: normal 180% 'Inconsolata';
 			text-decoration: none;
-			background: #9384B5;
+			background: #E8A7BD;
 			color: #333;
 		}
 
 		#menu ul li a:hover, #menu ul li a:focus{
-			background: #E8A7BD;
+			background: #9384B5;
 		}
 
 		</style>
