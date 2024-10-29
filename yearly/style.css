@@ -22,7 +22,7 @@ body{
 
 #blurb{
 	margin: 2em auto;
-	width: 75%;
+	width: 90%;
 }
 
 #list{
@@ -44,7 +44,7 @@ h2{
 }
 
 #playlist{
-	width: 75%;
+	width: 90%;
 	margin: 0 auto;
 }
 
@@ -113,7 +113,7 @@ a:hover, a:focus{
 }
 
 #navigation{
-	width: 75%;
+	width: 90%;
 	margin: 0 auto;
 }
 
@@ -129,5 +129,5 @@ a:hover, a:focus{
 #footer{
 	margin: 2.5em auto 0;
 	text-align: center;
-	width: 75%;
+	width: 90%;
 }
