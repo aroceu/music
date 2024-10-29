@@ -443,7 +443,7 @@
 
 			<table class="song">
 				<tr><td id="title">Slow Hands</td><td></td>
-				<td class="artist">Niall horan</td></tr>
+				<td class="artist">Niall Horan</td></tr>
 			</table>
 
 			<table class="song">

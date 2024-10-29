@@ -610,7 +610,7 @@
 			</table>
 
 			<table class="song">
-				<tr><td id="title">Lying Is The Most Fun A Girl Can Have Without Taking Her Clothes Off</td><td></td>
+				<tr><td id="title">Lying Is The Most Fun...</td><td></td>
 				<td class="artist">Panic! at the Disco (<i>A Fever You Can't Sweat Out</i>)</td></tr>
 			</table>
 
@@ -931,6 +931,6 @@
 
 			<table class="song">
 				<tr><td id="title">The Kids Aren't Alright</td><td></td>
-				<td class="artist"></td></tr>
+				<td class="artist">Fall Out Boy (<i>American Beauty/American Psycho</i>)</td></tr>
 			</table>
 

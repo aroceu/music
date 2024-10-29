@@ -80,7 +80,7 @@
 	    <div id="menu">
 		
 		<ul>
-		    <li><a href="yearly">Yearly Playlist</a></li>
+		    <li><a href="yearly">yearly playlists</a></li>
 		</ul>
 		
 		</div>

@@ -31,18 +31,8 @@
 
 		<?php include('playlistheader.php') ?>
 
-		<?php include('lists/2024.php') ?>	
+		<?php include('lists/2015.php') ?>	
 
-		</div>
-
-		<div id="playlist">
-
-			<table class="header"><tr><th>Title</th> <th></th> <th>Artist (Album)</th></tr></table>
-
-			<?php include('playlistheader.php') ?>
-
-			<?php include('lists/2015.php') ?>
-			
 		</div>
 
 	<div id="navigation">

@@ -70,7 +70,7 @@
 		<div id="blurb">
 			<p>I have a methodology to these, and I've been maintaining them since the oldest one listed on here across my music platforms, from iTunes to Spotify. This also includes the subtitles and the colors, somewhat, which reflect how I felt about the year and how it might affect my music-listening habits.</p> 
 
-			<p>Either way, I listen to music the same way I do anything else: by hyperfixating on them, and then organizing them. This is a result of that.</p>
+			<p>Either way, I listen to music the same way I do anything else: by hyperfixating on it regardless of when it came out &mdash; though that can have its impacts &mdash; and then organizing. This is a result of that.</p>
 		</div>
 		
 		<div id="menu">

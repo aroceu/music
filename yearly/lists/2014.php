@@ -25,12 +25,12 @@
 
 			<table class="song">
 				<tr><td id="title">Flawless Remix</td><td></td>
-				<td class="artist">Beyonc&eacute; ft. Nicki Minaj (<i>BEYONC&eacute;)</td></tr>
+				<td class="artist">Beyonc&Eacute; ft. Nicki Minaj (<i>BEYONC&Eacute;)</td></tr>
 			</table>
 
 			<table class="song">
 				<tr><td id="title">Single Ladies</td><td></td>
-				<td class="artist">Beyonc&eacute; ft. Nicki Minaj</td></tr>
+				<td class="artist">Beyonc&Eacute; ft. Nicki Minaj</td></tr>
 			</table>
 
 			<table class="song">

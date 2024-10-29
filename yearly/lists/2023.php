@@ -222,7 +222,7 @@
 
 			<table class="song">
 				<tr><td id="title">Ugly Heart</td><td></td>
-				<td class="artist">The A Capellea Group</td></tr>
+				<td class="artist">The A Capella Group</td></tr>
 			</table>
 
 			<table class="song">

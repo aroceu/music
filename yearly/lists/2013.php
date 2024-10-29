@@ -35,17 +35,17 @@
 
 			<table class="song">
 				<tr><td id="title">Blow</td><td></td>
-				<td class="artist">Beyonc&eacute; (<i>BEYONC&eacute;</i>)</td></tr>
+				<td class="artist">Beyonc&Eacute; (<i>BEYONC&Eacute;</i>)</td></tr>
 			</table>
 
 			<table class="song">
 				<tr><td id="title">Partition</td><td></td>
-				<td class="artist">Beyonc&eacute; (<i>BEYONC&eacute;</i>)</td></tr>
+				<td class="artist">Beyonc&Eacute; (<i>BEYONC&Eacute;</i>)</td></tr>
 			</table>
 
 			<table class="song">
 				<tr><td id="title">***Flawless</td><td></td>
-				<td class="artist">Beyonc&eacute;  ft. Chimamanda Ngozi Adichie (<i>BEYONC&eacute;</i>)</td></tr>
+				<td class="artist">Beyonc&Eacute;  ft. Chimamanda Ngozi Adichie (<i>BEYONC&Eacute;</i>)</td></tr>
 			</table>
 
 			<table class="song">
@@ -310,7 +310,7 @@
 
 			<table class="song">
 				<tr><td id="title">Master of the House</td><td></td>
-				<td class="artist">Various (<i>Les Mis&eacute;rables OST</i>)</td></tr>
+				<td class="artist">Various (<i>Les Mis&Eacute;rables OST</i>)</td></tr>
 			</table>
 
 			<table class="song">
@@ -455,7 +455,7 @@
 
 			<table class="song">
 				<tr><td id="title">Pretty Hurts</td><td></td>
-				<td class="artist">Beyonc&eacute; (<i>BEYONC&eacute;</i>)</td></tr>
+				<td class="artist">Beyonc&Eacute; (<i>BEYONC&Eacute;</i>)</td></tr>
 			</table>
 
 			<table class="song">

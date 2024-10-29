@@ -447,7 +447,7 @@
 
 			<table class="song">
 				<tr><td id="title">Summertime</td><td></td>
-				<td class="artist">clipping. ft. King Tee(<i>CLPPNG</i>)</td></tr>
+				<td class="artist">clipping. ft. King Tee (<i>CLPPNG</i>)</td></tr>
 			</table>
 
 			<table class="song">

@@ -701,7 +701,7 @@
 
 			<table class="song">
 				<tr><td id="title">On The Ground</td><td></td>
-				<td class="artist">ROS&eacute;</td></tr>
+				<td class="artist">ROS&Eacute;</td></tr>
 			</table>
 
 			<table class="song">

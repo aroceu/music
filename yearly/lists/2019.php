@@ -36,17 +36,17 @@
 
 			<table class="song">
 				<tr><td id="title">Do With It</td><td></td>
-				<td class="artist">Betty</td></tr>
+				<td class="artist">Betty Who</td></tr>
 			</table>
 
 			<table class="song">
 				<tr><td id="title">Marry Me</td><td></td>
-				<td class="artist">Betty</td></tr>
+				<td class="artist">Betty Who</td></tr>
 			</table>
 
 			<table class="song">
 				<tr><td id="title">Whisper</td><td></td>
-				<td class="artist">Betty</td></tr>
+				<td class="artist">Betty Who</td></tr>
 			</table>
 
 			<table class="song">
@@ -461,7 +461,7 @@
 
 			<table class="song">
 				<tr><td id="title">Used To Like</td><td></td>
-				<td class="artist">Neon Trees/td></tr>
+				<td class="artist">Neon Trees</td></tr>
 			</table>
 
 			<table class="song">
