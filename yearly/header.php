@@ -4,7 +4,7 @@
 
     	<meta name="viewport" content="initial-scale=1.0">
 
-    	<link rel="shortcut icon" type="image/x-icon" href="hk.png" />
+        <link rel="shortcut icon" type="image/x-icon" href="https://aroceu.com/music/music2004.png" />
             <meta name="robots" content="noai, noimageai">
 
             <link rel="preconnect" href="https://fonts.googleapis.com">
