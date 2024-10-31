@@ -19,13 +19,20 @@
 
 
 		:root{
-			--body: #E8A7BD linear-gradient(to top left, #E8A7BD 0%, #9384B5 100%);
-			--body-border: #9384B5;
+background:
+    radial-gradient(black 3px, transparent 4px),
+    radial-gradient(black 3px, transparent 4px),
+    linear-gradient(#fff 4px, transparent 0),
+    linear-gradient(45deg, transparent 74px, transparent 75px, #a4a4a4 75px, #a4a4a4 76px, transparent 77px, transparent 109px),
+    linear-gradient(-45deg, transparent 75px, transparent 76px, #a4a4a4 76px, #a4a4a4 77px, transparent 78px, transparent 109px),
+    #fff;
+    background-size: 109px 109px, 109px 109px,100% 6px, 109px 109px, 109px 109px;
+    background-position: 54px 55px, 0px 0px, 0px 0px, 0px 0px, 0px 0px;			--body-border: #000;
 			--container: #fafafa; 
-			--h1: #9384B5;
+			--h1: #000;
 			--h2: #333;
 			border:;
-			--accent: #9384B5;
+			--accent: #000;
 		}
 
 		#menu{
@@ -46,15 +53,14 @@
 
 		#menu ul li a:link, #menu ul li a:visited{
 			display: block;
-			width: 100%;
+			width: 350px;
 			font: normal 180% 'Inconsolata';
 			text-decoration: none;
-			background: #E8A7BD;
 			color: #333;
 		}
 
 		#menu ul li a:hover, #menu ul li a:focus{
-			background: #9384B5;
+			transform: rotate(10deg);
 		}
 
 		</style>
@@ -80,7 +86,7 @@
 	    <div id="menu">
 		
 		<ul>
-		    <li><a href="yearly">yearly playlists</a></li>
+		    <li><a href="yearly"><img src="yp.png" alt="yearly playlists"></a></li>
 		</ul>
 		
 		</div>
