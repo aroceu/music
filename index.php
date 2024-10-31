@@ -53,10 +53,13 @@ background:
 
 		#menu ul li a:link, #menu ul li a:visited{
 			display: block;
-			width: 350px;
 			font: normal 180% 'Inconsolata';
 			text-decoration: none;
 			color: #333;
+		}
+
+		#menu ul li img{
+			width: 350px;
 		}
 
 		#menu ul li a:hover, #menu ul li a:focus{
