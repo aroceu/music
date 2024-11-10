@@ -95,7 +95,7 @@ background:
 		</div>
 
 		<div id="footer">
-			&copy; 2024 <a href="https://aroceu.com">aroceu</a> &#127926; <a href="/music">music</a>
+			&copy; 2024 <a href="https://aroceu.com">aroceu</a> &#127926;
 		</div>
 
 	</div>
