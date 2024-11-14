@@ -748,3 +748,88 @@
 				<tr><td id="title">Disease</td><td></td>
 				<td class="artist">Lady Gaga</td></tr>
 			</table>
+
+			<table class="song">
+        <tr><td id="title">APT</td><td></td>
+        <td class="artist">Ros&eacute; ft. Bruno Mars</td></tr>
+      </table>
+
+      <table class="song">
+        <tr><td id="title">Survive The Night</td><td></td>
+        <td class="artist">Various (<i>Warriors 2024</i>)</td></tr>
+      </table>
+
+      <table class="song">
+        <tr><td id="title">Roll Call</td><td></td>
+        <td class="artist">Various (<i>Warriors 2024</i>)</td></tr>
+      </table>
+
+      <table class="song">
+        <tr><td id="title">Warriors' Cypher</td><td></td>
+        <td class="artist">Various (<i>Warriors 2024</i>)</td></tr>
+      </table>
+
+      <table class="song">
+        <tr><td id="title">If You Can Count</td><td></td>
+        <td class="artist">Ms. Lauryn Hill (<i>Warriors 2024</i>)</td></tr>
+      </table>
+
+      <table class="song">
+        <tr><td id="title">Derailed</td><td></td>
+        <td class="artist">Various (<i>Warriors 2024</i>)</td></tr>
+      </table>
+
+      <table class="song">
+        <tr><td id="title">Orphan Town</td><td></td>
+        <td class="artist">Various (<i>Warriors 2024</i>)</td></tr>
+      </table>
+
+      <table class="song">
+        <tr><td id="title">Call Me Mercy</td><td></td>
+        <td class="artist">Julia Harriman (<i>Warriors 2024</i>)</td></tr>
+      </table>
+
+      <table class="song">
+        <tr><td id="title">Quiet Girls</td><td></td>
+        <td class="artist">Various (<i>Warriors 2024</i>)</td></tr>
+      </table>
+
+      <table class="song">
+        <tr><td id="title">Sick Of Runnin'</td><td></td>
+        <td class="artist">Various (<i>Warriors 2024</i>)</td></tr>
+      </table>
+
+      <table class="song">
+        <tr><td id="title">The Park At Night</td><td></td>
+        <td class="artist">Various (<i>Warriors 2024</i>)</td></tr>
+      </table>
+
+      <table class="song">
+        <tr><td id="title">We Got You</td><td></td>
+        <td class="artist">Various (<i>Warriors 2024</i>)</td></tr>
+      </table>
+
+      <table class="song">
+        <tr><td id="title">A Light Or Somethin'</td><td></td>
+        <td class="artist">Various (<i>Warriors 2024</i>)</td></tr>
+      </table>
+
+      <table class="song">
+        <tr><td id="title">We Got You (reprise)</td><td></td>
+        <td class="artist">Various (<i>Warriors 2024</i>)</td></tr>
+      </table>
+
+      <table class="song">
+        <tr><td id="title">Reunion Square</td><td></td>
+        <td class="artist">Various (<i>Warriors 2024</i>)</td></tr>
+      </table>
+
+      <table class="song">
+        <tr><td id="title">Same Train Home</td><td></td>
+        <td class="artist">Shenseea (<i>Warriors 2024</i>)</td></tr>
+      </table>
+
+      <table class="song">
+        <tr><td id="title">Finale</td><td></td>
+        <td class="artist">Various (<i>Warriors 2024</i>)</td></tr>
+      </table>
