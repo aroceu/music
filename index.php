@@ -81,7 +81,7 @@
 
 		/** year colors - border is the text color, light accent is the background color (with exceptions) **/
 
-		a.2024:hover, a.2024:focus{
+		#menu ul li a.2024:hover, #menu ul li a.2024:focus{
 			background: #f7c3d4;
 			color: #9384B5;
 		}
