@@ -66,6 +66,7 @@
 			width: 100%;
 			font: normal 180% 'Inconsolata';
 			text-decoration: none;
+			box-shadow: none;
 		}
 
 		#menu ul li a:hover, #menu ul li a:focus{
