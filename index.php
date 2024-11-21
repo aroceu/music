@@ -11,28 +11,21 @@
             <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
             <link href="https://fonts.googleapis.com/css2?family=Inconsolata:wght@200..700&family=Rochester&display=swap" rel="stylesheet">
 
+    	<title>aroceu's music log</title>
 
-        <title>aroceu's music log</title>
-        
-        <!-- theme after current year, or previous if current year's colors have not been decided -->
+
+    	<!-- theme after current year, or previous if current year's colors have not been decided -->
 		<style type="text/css">
 
 
 		:root{
-background:
-    radial-gradient(black 3px, transparent 4px),
-    radial-gradient(black 3px, transparent 4px),
-    linear-gradient(#fff 4px, transparent 0),
-    linear-gradient(45deg, transparent 74px, transparent 75px, #a4a4a4 75px, #a4a4a4 76px, transparent 77px, transparent 109px),
-    linear-gradient(-45deg, transparent 75px, transparent 76px, #a4a4a4 76px, #a4a4a4 77px, transparent 78px, transparent 109px),
-    #fff;
-    background-size: 109px 109px, 109px 109px,100% 6px, 109px 109px, 109px 109px;
-    background-position: 54px 55px, 0px 0px, 0px 0px, 0px 0px, 0px 0px;			--body-border: #000;
+			--body: #E8A7BD linear-gradient(to top left, #E8A7BD 0%, #9384B5 100%);
+			--body-border: #9384B5;
 			--container: #fafafa; 
-			--h1: #000;
+			--h1: #9384B5;
 			--h2: #333;
 			border:;
-			--accent: #000;
+			--accent: #9384B5;
 		}
 
 		#menu{
@@ -53,56 +46,66 @@ background:
 
 		#menu ul li a:link, #menu ul li a:visited{
 			display: block;
+			width: 100%;
 			font: normal 180% 'Inconsolata';
 			text-decoration: none;
-			color: #333;
-		}
-
-		#menu ul li img{
-			width: 350px;
 		}
 
 		#menu ul li a:hover, #menu ul li a:focus{
-			transform: rotate(10deg);
+			background: #E8A7BD;
 		}
 
 		</style>
 
-		<link rel="stylesheet" href="yearly/style.css" type="text/css" media="screen" />
+		<link rel="stylesheet" href="style.css" type="text/css" media="screen" />
 
 	</head>
-	
+
 	<body>
 
 		<div id="container">
 
-		<h1>aroceu's music log</h1>
-		
+		<h1>aroceu's yearly playlists</h1>
+
 		<div id="blurb">
-		
-		<p>Welcome to my music log, a small section of my website that mostly serves as a text-based archive of music I enjoy. Below you'll see my yearly playlists (which is a big jumble of sometimes random genres); and eventually I'll have more genre-based playlists, because this section is technically:</p>
-		
-		<p align="center"><big>[ UNDER CONSTRUCTION ]</big></p>
-		
+			<p>I have a methodology to these, and I've been maintaining them since the oldest one listed on here across my music platforms, from iTunes to Spotify. This also includes the subtitles and the colors, somewhat, which reflect how I felt about the year and how it might affect my music-listening habits.</p> 
+
+			<p>Either way, I listen to music the same way I do anything else: by hyperfixating on it regardless of when it came out &mdash; though that can have its impacts &mdash; and then organizing. This is a result of that.</p>
 		</div>
 		
-	    <div id="menu">
-		
+		<div id="menu">
+
 		<ul>
-		    <li><a href="yearly"><img src="yp.png" alt="yearly playlists"></a></li>
+			<li><a href="2024">2024</a></li>
+			<li><a href="2023">2023</a></li>
+			<li><a href="2022">2022</a></li>
+			<li><a href="2021">2021</a></li>
+			<li><a href="2020">2020</a></li>
+			<li><a href="2019">2019</a></li>
+			<li><a href="2018">2018</a></li>
+			<li><a href="2017">2017</a></li>
+			<li><a href="2016">2016</a></li>
+			<li><a href="2015">2015</a></li>
+			<li><a href="2014">2014</a></li>
+			<li><a href="2013">2013</a></li>
+			<li><a href="2012">2012</a></li>
+
 		</ul>
-		
+
 		</div>
 
+		
+
 		<div id="footer">
-			&copy; 2024 <a href="https://aroceu.com">aroceu</a> &#127926;
+			&copy; 2024 <a href="https://aroceu.com">aroceu</a> &#127926; <a href="/music">music</a> &gt; <a href="index">yearly playlists</a>
 		</div>
 
 	</div>
+
+		
 
 	</div>
 
 </body>
 
 </html>
-		
