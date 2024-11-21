@@ -96,7 +96,7 @@
 
 			<div id="musician">
 
-				<blockquote>I play piano and understand singing though I don't think of myself as an exceptional singer &mdash; I used to be in choir because I enjoyed it, but only before college. I have some experience with clarinet and I want to try guitar again, but that ambition's in the far back of my mind.
+				<blockquote><p>I play piano and understand singing though I don't think of myself as an exceptional singer &mdash; I used to be in choir because I enjoyed it, but only before college. I have some experience with clarinet and I want to try guitar again, but that ambition's in the far back of my mind.</p>
 				</blockquote>
 
 			</div>
@@ -108,7 +108,7 @@
 				<blockquote>
 				<p>A non-exhaustive list of additional musical genres I enjoy: indie (pop/rock/other), folk, Thai, ska, country, electronic, musicals/showtunes, video games, classical (the only thing my parents listen to), new wave, comedy, blues, gospel/Christian (I used to go to church and some of those songs still slap), house, trap, swing, someone I dated was really into EDM and dubstep, funk, metal/screamo, mandopop, jrock/jpop... and there's probably more!</p>
 
-				<p>I'm also a huge fan of acapellas, covers, mashups, and acapella cover mashups as well. They're like music "fanfiction" to me &mdash; and you know how much I like fanfiction.</p>
+				<p>I'm also a huge fan of acapellas, covers, mashups, and acapella cover mashups. They're like music "fanfiction" to me &mdash; and you know how much I like fanfiction.</p>
 				</blockquote>
 
 			</div>
@@ -145,7 +145,7 @@
 		
 
 		<div id="footer">
-			&copy; 2024 <a href="https://aroceu.com">aroceu</a> &#127926; <a href="/music">music</a> &gt; <a href="index">yearly playlists</a>
+			&copy; 2024 <a href="https://aroceu.com">aroceu</a> &#127926; music</a>
 		</div>
 
 	</div>
