@@ -170,7 +170,7 @@
 		<h1>aroceu's music log</h1>
 
 		<div id="blurb">
-			<p>Music is and has always been the one consistency in my life. <a href="#musician" rel="toggle[musician]" class="footnote">Though I'm not much of a musician</a>, I've been a fan of the art of a tune since I could talk.</p>
+			<p>Music is and has always been the one consistency in my life. <a href="#musician" rel="toggle[musician]" class="footnote">Though I'm not much of a musician*</a>, I've been a fan of the art of a tune since I could talk.</p>
 
 			<div id="musician">
 
@@ -179,7 +179,7 @@
 
 			</div>
 
-			<p>I like all genres: boy bands and pop girls have been my thing since the Backstreet Boys's "I Want It That Way" (my first pop song &mdash; I listened to it repeatedly on a casette tape) and <i>Metamorphosis</i> by Hilary Duff. I got really into rock, R&B, and rap/hip-hop in 2005; then pop-punk/alternative and k-pop in 2009. I've dipped into <a href="#genres" rel="toggle[genres]" class="footnote">many other genres here and there</a> so don't be fooled by my penchance for mainstream music to be definitive of my taste. Pop is just my favorite genre.</p>
+			<p>I like all genres: boy bands and pop girls have been my thing since the Backstreet Boys's "I Want It That Way" (my first pop song &mdash; I listened to it repeatedly on a casette tape) and <i>Metamorphosis</i> by Hilary Duff. I got really into rock, R&B, and rap/hip-hop in 2005; then pop-punk/alternative and k-pop in 2009. I've dipped into <a href="#genres" rel="toggle[genres]" class="footnote">many other genres* here and there</a> so don't be fooled by my penchance for mainstream music to be definitive of my taste. Pop is just my favorite genre.</p>
 
 			<div id="genres">
 
