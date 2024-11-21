@@ -132,8 +132,8 @@
 		}
 
 		#menu ul li.fourteen a:hover, #menu ul li.fourteen a:focus{
-			background: #641740;
-			color: #F7C8D6;
+			color: #641740;
+			background: #F7C8D6;
 		}
 
 		#menu ul li.thirteen a:hover, #menu ul li.thirteen a:focus{
@@ -208,7 +208,7 @@
 			<li class="twentyone"><a href="2021">2021</a></li>
 			<li class="twentytwenty"><a href="2020">2020</a></li>
 			<li class="nineteen"><a href="2019">2019</a></li>
-			<li class="eighteenr"><a href="2018">2018</a></li>
+			<li class="eighteen"><a href="2018">2018</a></li>
 			<li class="seventeen"><a href="2017">2017</a></li>
 			<li class="sixteen"><a href="2016">2016</a></li>
 			<li class="fifteen"><a href="2015">2015</a></li>
