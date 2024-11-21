@@ -11,7 +11,7 @@
 			--h1: #BC4547;
 			--h2: #59273a;
 			--accent: #BC4547;
-			--accent-light: #59273a;
+			--accent-light: #ddced4;
 		}
 
 		</style>

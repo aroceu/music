@@ -91,6 +91,10 @@
 			margin-bottom: 1.5em;
 		}
 
+		#blurb a:hover, #blurb a:focus{
+			  box-shadow: inset 0 -0.4em #999;
+		}
+
 		</style>
 
 		<link rel="stylesheet" href="style.css" type="text/css" media="screen" />
@@ -125,7 +129,7 @@
 
 			</div>
 
-			<p>Listening to music is the one thing I refuse to feel pretentious about, so everything I've enjoyed is a conglomeration of both my own enjoyment and influences from the people around me throughout my life. Since 2012, I've been keeping annual playlists of songs I've been obsessed with, or at least had on repeat for some portion of the year. Occasionally I'm an album listener, though it's not integral to my music enjoyment. I have a methodology to compiling these playlists, and have been maintaining them even as I switched music platforms (from iTunes to Spotify) in 2017.</p>
+			<p>Listening to music is the one thing I refuse to feel pretentious about, so everything I've enjoyed is a conglomeration of both my own enjoyment and influences from the people around me throughout my life. Since 2012, I've kept annual playlists of songs I've been obsessed with, or at least had on repeat for some portion of the year. Occasionally I'm an album listener, though it's not integral to my music enjoyment. I have a methodology to compiling these playlists, and have been maintaining them even as I switched music platforms (from iTunes to Spotify) in 2017.</p>
 
 			<p>Though this is technically an archive of music, it's also a peek into my life. These playlists include subtitles and colors to theme the year, which tend to reflect how I felt about the year and might affect my music-listening habits. I'm still navigating my journey along with everyone else &mdash; but I used to have those profile buttons that said "music is my life/drug" on my old MySpace profile, so this is really just a continuation of that. Full circle and whatnot.</p>
 
