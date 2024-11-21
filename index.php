@@ -71,7 +71,7 @@
 			-webkit-padding-start: none!important;
 		}
 
-		#menu ul li a:link, #menu ul li a:visited{
+		#menu ul li a.2024:link, #menu ul li a.2024:visited{
 			display: block;
 			width: 100%;
 			font: normal 180% 'Inconsolata';
