@@ -91,7 +91,7 @@
 			margin-bottom: 1.5em;
 		}
 
-		#blurb a:hover, #blurb a:focus{
+		#blurb a:hover, #blurb a:focus, #footer a:hover, #footer a:focus{
 			  box-shadow: inset 0 -0.4em #999;
 		}
 
