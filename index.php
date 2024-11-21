@@ -71,7 +71,7 @@
 			-webkit-padding-start: none!important;
 		}
 
-		#menu ul li a.2024:link, #menu ul li a.2024:visited{
+		#menu ul li a:link, #menu ul li a:visited{
 			display: block;
 			width: 100%;
 			font: normal 180% 'Inconsolata';
@@ -81,74 +81,69 @@
 
 		/** year colors - border is the text color, light accent is the background color (with exceptions) **/
 
-		#menu ul li a.2024:hover, #menu ul li a.2024:focus{
+		#menu ul li.twentyfour a:hover, #menu ul li.twentyfour a:focus{
 			background: #f7c3d4;
 			color: #9384B5;
 		}
 
-		a.2023:hover, a.2023:focus{
+		#menu ul li.twentythree a:hover, #menu ul li.twentythree a:focus{
 			background: #cbf2e7;
 			color: #9BADDC;
 		}
 
-		a.2022:hover, a.2022:focus{
+		#menu ul li.twentytwo a:hover, #menu ul li.twentytwo a:focus{
 			background: #f2ead0;
 			color: #ADB9C7;
 		}
 
-		a.2021:hover, a.2021:focus{
+		#menu ul li.twentyone a:hover, #menu ul li.twentyone a:focus{
 			background: #dadada;
 			color: #bababa;
 		}
 
-		a.2020:hover, a.2020:focus{
+		#menu ul li.twentytwenty a:hover, #menu ul li.twentytwenty a:focus{
 			background: #0B1A51;
 			color: #a6aabf;
 		}
 
-		a.2019:hover, a.2019:focus{
+		#menu ul li.nineteen a:hover, #menu ul li.nineteen a:focus{
 			background: #cde0ac;
 			color: #42A02F;
 		}
 
-		a.2018:hover, a.2018:focus{
+		#menu ul li.eighteen a:hover, #menu ul li.eighteen a:focus{
 			background: #EACEDD;
 			color: #403582;
 		}
 
-		a.2017:hover, a.2017:focus{
+		#menu ul li.seventeen a:hover, #menu ul li.seventeen a:focus{
 			background: #F0D9BC;
 			color: #D50454;
 		}
 
-		a.2016:hover, a.2016:focus{
+		#menu ul li.sixteen a:hover, #menu ul li.sixteen a:focus{
 			background: #F4D6A7;
 			color: #D54600;
 		}
 
-		a.2015:hover, a.2015:focus{
+		#menu ul li.fifteen a:hover, #menu ul li.fifteen a:focus{
 			background: #94a6b2;
 			color: #1C304C;
 		}
 
-		a.2014:hover, a.2014:focus{
+		#menu ul li.fourteen a:hover, #menu ul li.fourteen a:focus{
 			background: #641740;
 			color: #F7C8D6;
 		}
 
-		a.2013:hover, a.2013:focus{
+		#menu ul li.thirteen a:hover, #menu ul li.thirteen a:focus{
 			background: #0F4267;
 			color: #ADD7E1;
 		}
 
-		a.2012:hover, a.2012:focus{
+		#menu ul li.twelve a:hover, #menu ul li.twelve a:focus{
 			background: #ddced4;
 			color: #59273a;
-		}
-
-		#menu ul li a:hover, #menu ul li a:focus{
-			background: #333;
-			color: #fafafa;
 		}
 
 		blockquote{
@@ -207,19 +202,19 @@
 		<div id="menu">
 
 		<ul>
-			<li><a href="2024" class="2024">2024</a></li>
-			<li><a href="2023" class="2023">2023</a></li>
-			<li><a href="2022" class="2022">2022</a></li>
-			<li><a href="2021" class="2021">2021</a></li>
-			<li><a href="2020" class="2020">2020</a></li>
-			<li><a href="2019" class="2019">2019</a></li>
-			<li><a href="2018" class="2018">2018</a></li>
-			<li><a href="2017" class="2017">2017</a></li>
-			<li><a href="2016" class="2016">2016</a></li>
-			<li><a href="2015" class="2015">2015</a></li>
-			<li><a href="2014" class="2014">2014</a></li>
-			<li><a href="2013" class="2013">2013</a></li>
-			<li><a href="2012" class="2012">2012</a></li>
+			<li class="twentyfour"><a href="2024">2024</a></li>
+			<li class="twentythree"><a href="2023">2023</a></li>
+			<li class="twentytwo"><a href="2022">2022</a></li>
+			<li class="twentyone"><a href="2021">2021</a></li>
+			<li class="twentytwenty"><a href="2020">2020</a></li>
+			<li class="nineteen"><a href="2019">2019</a></li>
+			<li class="eighteenr"><a href="2018">2018</a></li>
+			<li class="seventeen"><a href="2017">2017</a></li>
+			<li class="sixteen"><a href="2016">2016</a></li>
+			<li class="fifteen"><a href="2015">2015</a></li>
+			<li class="fourteen"><a href="2014">2014</a></li>
+			<li class="thirteen"><a href="2013">2013</a></li>
+			<li class="twelve"><a href="2012">2012</a></li>
 
 		</ul>
 
