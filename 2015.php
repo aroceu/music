@@ -9,6 +9,7 @@
 			--h1: #1C304C;
 			--h2: #2A3E4B;
 			--accent: #1C304C;
+			--accent-light: #94a6b2;
 		}
 
 		</style>

@@ -10,6 +10,7 @@
 			--h2: #333;
 			border:;
 			--accent: #9384B5;
+			--accent-light: #f7c3d4;
 		}
 
 		</style>

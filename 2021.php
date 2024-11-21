@@ -9,6 +9,7 @@
 			--h1: #888;
 			--h2: #333;
 			--accent: #888;
+			--accent-light: #bababa;
 		}
 
 		</style>

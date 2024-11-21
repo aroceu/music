@@ -31,18 +31,28 @@
     	<title>aroceu's music log</title>
 
 
-    	<!-- theme after current year, or previous if current year's colors have not been decided -->
+    	<!-- theme after current year, or previous if current year's colors have not been decided. or maybe not idk -->
 		<style type="text/css">
 
 
 		:root{
-			--body: #E8A7BD linear-gradient(to top left, #E8A7BD 0%, #9384B5 100%);
-			--body-border: #9384B5;
+			background:
+    radial-gradient(black 3px, transparent 4px),
+    radial-gradient(black 3px, transparent 4px),
+    linear-gradient(#fff 4px, transparent 0),
+    linear-gradient(45deg, transparent 74px, transparent 75px, #a4a4a4 75px, #a4a4a4 76px, transparent 77px, transparent 109px),
+    linear-gradient(-45deg, transparent 75px, transparent 76px, #a4a4a4 76px, #a4a4a4 77px, transparent 78px, transparent 109px),
+    #fff;
+    background-size: 109px 109px, 109px 109px,100% 6px, 109px 109px, 109px 109px;
+    background-position: 54px 55px, 0px 0px, 0px 0px, 0px 0px, 0px 0px;		
+			/** --body: #E8A7BD linear-gradient(to top left, #E8A7BD 0%, #9384B5 100%); **/
+			--body-border: #333;
 			--container: #fafafa; 
-			--h1: #9384B5;
+			--h1: #333;
 			--h2: #333;
 			border:;
-			--accent: #9384B5;
+			--accent: #333;
+			--accent-light: #ddd;
 		}
 
 		#menu{
@@ -70,12 +80,13 @@
 		}
 
 		#menu ul li a:hover, #menu ul li a:focus{
-			background: #E8A7BD;
+			background: #333;
+			color: #fafafa;
 		}
 
 		blockquote{
-			background: #f7c3d4;
-			border-left: 10px solid #9384B5;
+			background: #dadada /** greyscale css pattern **/;
+			border-left: 10px solid #333;
 			padding: 1.5em 1.5em 0;
 			margin-bottom: 1.5em;
 		}
@@ -102,7 +113,7 @@
 
 			</div>
 
-			<p>I like all genres: boy bands and pop girls have been my thing since the Backstreet Boys's "I Want It That Way" (my first pop song &mdash; I listened to it repeatedly on a casette tape) and <i>Metamorphosis</i> by Hilary Duff. I got really into rock, R&B, and rap/hip-hop in 2005; then pop-punk/alternative and k-pop in 2009. I've dipped into <a href="#genres" rel="toggle[genres]" class="footnote">many other genres here and there</a> so don't let my penchance for mainstream music be definitive of my taste. Pop is just my favorite genre.</p>
+			<p>I like all genres: boy bands and pop girls have been my thing since the Backstreet Boys's "I Want It That Way" (my first pop song &mdash; I listened to it repeatedly on a casette tape) and <i>Metamorphosis</i> by Hilary Duff. I got really into rock, R&B, and rap/hip-hop in 2005; then pop-punk/alternative and k-pop in 2009. I've dipped into <a href="#genres" rel="toggle[genres]" class="footnote">many other genres here and there</a> so don't be fooled by my penchance for mainstream music to be definitive of my taste. Pop is just my favorite genre.</p>
 
 			<div id="genres">
 
