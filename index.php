@@ -73,9 +73,10 @@
 		}
 
 		blockquote{
-			background: #E8A7BD;
+			background: #f7c3d4;
 			border-left: 10px solid #9384B5;
 			padding: 10px;
+			margin-bottom: 1.5em;
 		}
 
 		</style>
@@ -95,8 +96,7 @@
 
 			<div id="musician">
 
-				<blockquote>
-				<p>I play piano and understand singing though I don't think of myself as an exceptional singer &mdash; I used to be in choir because I enjoyed it, but only before college. I have some experience with clarinet and I want to try guitar again, but that ambition's in the far back of my mind.</p>
+				<blockquote>I play piano and understand singing though I don't think of myself as an exceptional singer &mdash; I used to be in choir because I enjoyed it, but only before college. I have some experience with clarinet and I want to try guitar again, but that ambition's in the far back of my mind.
 				</blockquote>
 
 			</div>
