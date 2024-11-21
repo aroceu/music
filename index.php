@@ -75,7 +75,7 @@
 		blockquote{
 			background: #f7c3d4;
 			border-left: 10px solid #9384B5;
-			padding: 10px;
+			padding: 1.5em 1.5em 0;
 			margin-bottom: 1.5em;
 		}
 
