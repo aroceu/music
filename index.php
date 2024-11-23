@@ -17,6 +17,7 @@
             <script type="text/javascript">
             	animatedcollapse.addDiv('musician', 'fade=1, speed=400, hide=1');
             	animatedcollapse.addDiv('genres', 'fade=1, speed=400, hide=1');
+            	animatedcollapse.addDiv('burn', 'fade=1, speed=400, hide=1');
 
 				animatedcollapse.ontoggle=function($, divobj, state){ //fires each time a DIV is expanded/contracted
 					//$: Access to jQuery
@@ -191,7 +192,13 @@
 
 			</div>
 
-			<p>Listening to music is the one thing I refuse to feel pretentious about, so everything I've enjoyed is a conglomeration of both my own enjoyment and influences from the people around me throughout my life. Since 2012, I've kept annual playlists of songs I've been obsessed with, or at least had on repeat for some portion of the year. Occasionally I'm an album listener, though it's not integral to my music enjoyment. I have a methodology to compiling these playlists, and have been maintaining them even as I switched music platforms (from iTunes to Spotify) in 2017.</p>
+			<p>Listening to music is the one thing I refuse to feel pretentious about, so everything I've enjoyed is a conglomeration of both my own enjoyment and influences from the people around me throughout my life. <a href="#burn" rel="toggle[burn]" class="footnote">Since 2012*</a>, I've kept annual playlists of songs I've been obsessed with, or at least had on repeat for some portion of the year. Occasionally I'm an album listener, though it's not integral to my music enjoyment. I have a methodology to compiling these playlists, and have been maintaining them even as I switched music platforms (from iTunes to Spotify) in 2017.</p>
+
+			<div id="burn">
+
+				<p>Before that and since 2005, I used to burn CDs instead. I had a <i>lot</i> of these 20-song playlists with songs that I listened to on repeat: in the car (I usually controlled the music), on my CD player, or on my old purple boombox. I'm pretty sure my mom still has all of those CDs; I never really got rid of them. I really only stopped burning CDs in 2015 when my mom got a car with a Bluetooth connection. The car's mine now.</p>
+
+			</div>
 
 			<p>Though this is technically an archive of music, it's also a peek into my life. These playlists include subtitles and colors to theme the year, which tend to reflect how I felt about the year and might affect my music-listening habits. I'm still navigating my journey along with everyone else &mdash; but I used to have those profile buttons that said "music is my life/drug" on my old MySpace profile, so this is really just a continuation of that. Full circle and whatnot.</p>
 

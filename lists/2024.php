@@ -833,3 +833,43 @@
         <tr><td id="title">Finale</td><td></td>
         <td class="artist">Various (<i>Warriors 2024</i>)</td></tr>
       </table>
+
+      <table class="song">
+        <tr><td id="title">wacced out murals</td><td></td>
+        <td class="artist">Kendrick Lamar (<i>GNX</i>)</td></tr>
+      </table>
+
+      <table class="song">
+        <tr><td id="title">squabble up</td><td></td>
+        <td class="artist">Kendrick Lamar (<i>GNX</i>)</td></tr>
+      </table>
+
+      <table class="song">
+        <tr><td id="title">luther</td><td></td>
+        <td class="artist">Kendrick Lamar (<i>GNX</i>)</td></tr>
+      </table>
+
+      <table class="song">
+        <tr><td id="title">hey now</td><td></td>
+        <td class="artist">Kendrick Lamar (<i>GNX</i>)</td></tr>
+      </table>
+
+      <table class="song">
+        <tr><td id="title">reincarnated</td><td></td>
+        <td class="artist">Kendrick Lamar (<i>GNX</i>)</td></tr>
+      </table>
+
+      <table class="song">
+        <tr><td id="title">tv off</td><td></td>
+        <td class="artist">Kendrick Lamar (<i>GNX</i>)</td></tr>
+      </table>
+
+      <table class="song">
+        <tr><td id="title">peekaboo</td><td></td>
+        <td class="artist">Kendrick Lamar (<i>GNX</i>)</td></tr>
+      </table>
+
+      <table class="song">
+        <tr><td id="title">heart pt. 6</td><td></td>
+        <td class="artist">Kendrick Lamar (<i>GNX</i>)</td></tr>
+      </table>
