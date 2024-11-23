@@ -196,7 +196,9 @@
 
 			<div id="burn">
 
+				<blockquote>
 				<p>Before that and since 2005, I used to burn CDs instead. I had a <i>lot</i> of these 20-song playlists with songs that I listened to on repeat: in the car (I usually controlled the music), on my CD player, or on my old purple boombox. I'm pretty sure my mom still has all of those CDs; I never really got rid of them. I really only stopped burning CDs in 2015 when my mom got a car with a Bluetooth connection. The car's mine now.</p>
+				</blockquote>
 
 			</div>
 
