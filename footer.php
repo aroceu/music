@@ -1,7 +1,7 @@
 <div style="clear: both;"></div>
 
 <div class="mobilenote">
-		This website is best viewed on a larger desktop. Please switch to a screen resolution of 1280 x 1024 or higher for the best experience.
+		This website is best viewed on a larger desktop (due to the use of tables, for the curious). Please switch to a screen resolution of 1280 x 1024 or higher for the best experience.
 	</div>
 
 		<div id="footer">
