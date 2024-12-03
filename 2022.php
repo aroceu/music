@@ -32,6 +32,8 @@
 		<p align="center"><a href="https://open.spotify.com/playlist/5fynF2s18fxEOJtH2vfV2o?si=OZwKyjo7QZWaROwW6VpI8w" class="button">Listen on Spotify</a>
 			<br /><b>Count:</b> 35</p>
 
+		</div>
+
 		<?php include('playlistheader.php') ?>
 
 		<?php include('lists/2022.php') ?>	

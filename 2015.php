@@ -30,11 +30,13 @@
 		<p align="center"><a href="https://open.spotify.com/playlist/1kUEzzFXLU24i1glLlwlcv?si=B8iy0HOWT1W3HaNvgl3baw" class="button">Listen on Spotify</a>
 		<br /><b>Count:</b> 119</p>
 
+	</div>
+
 		<?php include('playlistheader.php') ?>
 
 		<?php include('lists/2015.php') ?>	
 
-		</div>
+	</div>
 
 	<div id="navigation">
 

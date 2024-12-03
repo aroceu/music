@@ -30,11 +30,13 @@
 		<p align="center"><a href="https://open.spotify.com/playlist/4hrD1yaMYNqwqOQysgE7q1?si=mUQEHAl9RjCFYYs7LQFt3w" class="button">Listen on Spotify</a>
 		<br /><b>Count:</b> 68</p>
 
+		</div>
+
 		<?php include('playlistheader.php') ?>
 
 		<?php include('lists/2020.php') ?>	
 
-	</div>
+		</div>
 
 	<div id="navigation">
 
@@ -46,7 +48,5 @@
 				<a href="2021">Next &rarr;</a>
 			</span>
 		</div>
-
-	</div>
 
 		<?php include('footer.php') ?>
