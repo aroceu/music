@@ -29,9 +29,7 @@
 
 		<div id="blurb">
 
-		<p>This was also the year I turned 18. Though I didn't deliberately try to make and do more stuff as soon as I came of age, it kind of happened that way, anyway. Including compiling playlists like these.</p>
-
-		<p><small>(And if you see more NC-17 stuff around on my websites dated prior to this year...don't worry about it.)</small></p>
+		<p>This was also the year I turned 18. Though I didn't deliberately try to make and do more stuff as soon as I came of age, it kind of happened that way, anyway. Including compiling playlists like these. <small>(And if you see more NC-17 stuff around on my websites dated prior to this year...don't worry about it.)</small></p>
 
 		<p align="center"><a href="https://open.spotify.com/playlist/2dgQ8WdKbvbDMdSlRDwAUT?si=6qskheAoS363PZPx_4i5vQ" class="button">Listen on Spotify</a>
 		<br /><b>Count:</b> 158</p>
