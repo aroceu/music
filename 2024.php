@@ -30,7 +30,7 @@
 
 			<p>Even then, I would still consider <i>eternal sunshine</i> and <i>Cowboy Carter</i> my top two albums of this year. Oh, and <i>Warriors</i>. I started listening to <i>The Rise and Fall of a Midwest Princess</i> at the end of last year after a recommendation from my brother (namely, Red Wine Supernova which took me completely by storm) so I suppose that counts too. And I got into Olivia Rodrigo at the end of last year as well, so that leaked over in the beginning too.</p>
 
-			<p>Jesus Christ, I really did win this year.</p>
+			<p>This is by far the largest amount of new same-year music I've ever had on a yearly playlist. It's also been one of the better years of my life; and having pop cultural moments to look forward to or get surprised by really enhanced that. I've had more fun this year than I've ever had before, and I don't know if that means anything but I'm still grateful for it all.</p>
 
 		<p align="center"><a href="https://open.spotify.com/playlist/4oJcamafOmhXYZGyLkMbQ9?si=dEeEIkFpQjaoDFfxa3-qsQ" class="button">Listen on Spotify</a>
 			<br /><b>Count:</b> -</p>
