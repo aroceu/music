@@ -9,7 +9,7 @@
 
             <link rel="preconnect" href="https://fonts.googleapis.com">
             <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-            <link href="https://fonts.googleapis.com/css2?family=Inconsolata:wght@200..700&family=Rochester&display=swap" rel="stylesheet">
+            <link href="https://fonts.googleapis.com/css2?family=Inconsolata:wght@200..700&family=Cookie&display=swap" rel="stylesheet">
 
             <script type="text/javascript" src="https://seas.ink/x/jquery-1.10.1.min.js"></script>
 <script type="text/javascript" src="https://seas.ink/x/animatedcollapse.js"></script>
