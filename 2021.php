@@ -32,8 +32,6 @@
 
 		</div>
 
-		<div id="playlist">
-
 		<?php include('playlistheader.php') ?>
 
 		<?php include('lists/2021.php') ?>	

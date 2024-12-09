@@ -29,6 +29,8 @@
 
 		<p>I got more into Pentagon's discography this year, after I had gotten so charmed by it by the end of the previous year. I also got really into Thai dramas this year, specifically <i>Bad Buddy</i>, so that was a huge influence on my on-repeat too.</p>
 
+		<p>A complicated... I'll call it a "life event" &mdash; occurred in the latter half of this year which caused a deep depressive phase and made it difficult for me to care for new music or anything at all.</p>
+
 		<p align="center"><a href="https://open.spotify.com/playlist/5fynF2s18fxEOJtH2vfV2o?si=OZwKyjo7QZWaROwW6VpI8w" class="button">Listen on Spotify</a>
 			<br /><b>Count:</b> 35</p>
 
