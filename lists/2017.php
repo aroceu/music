@@ -720,7 +720,7 @@
 
 			<table class="song">
 				<tr><td id="title">GOLD</td><td></td>
-				<td class="artist">Dalton Rapattoni (<i>Nobodys Home</i>)</td></tr>
+				<td class="artist">BROCKHAMPTON</td></tr>
 			</table>
 
 			<table class="song">
