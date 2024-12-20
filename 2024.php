@@ -33,7 +33,7 @@
 			<p>This is by far the largest amount of new same-year music I've ever had on a yearly playlist. It's also been one of the better years of my life; and having pop cultural moments to look forward to or get surprised by really enhanced that. I've had more fun this year than I've ever had before, and I don't know if that means anything but after the past few years that I've had, I'm pretty grateful for it.</p>
 
 		<p align="center"><a href="https://open.spotify.com/playlist/4oJcamafOmhXYZGyLkMbQ9?si=dEeEIkFpQjaoDFfxa3-qsQ" class="button">Listen on Spotify</a>
-			<br /><b>Count:</b> -</p>
+			<br /><b>Count:</b> 185</p>
 
 		</div>
 

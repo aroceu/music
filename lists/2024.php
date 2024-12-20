@@ -846,12 +846,12 @@
 
       <table class="song">
         <tr><td id="title">luther</td><td></td>
-        <td class="artist">Kendrick Lamar (<i>GNX</i>)</td></tr>
+        <td class="artist">Kendrick Lamar ft. Sza (<i>GNX</i>)</td></tr>
       </table>
 
       <table class="song">
         <tr><td id="title">hey now</td><td></td>
-        <td class="artist">Kendrick Lamar (<i>GNX</i>)</td></tr>
+        <td class="artist">Kendrick Lamar ft. Dody6 (<i>GNX</i>)</td></tr>
       </table>
 
       <table class="song">
@@ -865,11 +865,61 @@
       </table>
 
       <table class="song">
+        <tr><td id="title">dodger blue</td><td></td>
+        <td class="artist">Kendrick Lamar ft. Wallie the Sensei, Siete7x, Roddy Rich (<i>GNX</i>)</td></tr>
+      </table>
+
+      <table class="song">
         <tr><td id="title">peekaboo</td><td></td>
-        <td class="artist">Kendrick Lamar (<i>GNX</i>)</td></tr>
+        <td class="artist">Kendrick Lamar ft. AzChike (<i>GNX</i>)</td></tr>
       </table>
 
       <table class="song">
         <tr><td id="title">heart pt. 6</td><td></td>
         <td class="artist">Kendrick Lamar (<i>GNX</i>)</td></tr>
+      </table>
+
+      <table class="song">
+        <tr><td id="title">gloria</td><td></td>
+        <td class="artist">Kendrick Lamar ft. Sza (<i>GNX</i>)</td></tr>
+      </table>
+
+      <table class="song">
+        <tr><td id="title">Walk Like This</td><td></td>
+        <td class="artist">FLO (<i>Access All Areas</i>)</td></tr>
+      </table>
+
+     <table class="song">
+        <tr><td id="title">IWH2BMX</td><td></td>
+        <td class="artist">FLO (<i>Access All Areas</i>)</td></tr>
+      </table>
+
+      <table class="song">
+        <tr><td id="title">Nocturnal</td><td></td>
+        <td class="artist">FLO (<i>Access All Areas</i>)</td></tr>
+      </table>
+
+      <table class="song">
+        <tr><td id="title">Check</td><td></td>
+        <td class="artist">FLO (<i>Access All Areas</i>)</td></tr>
+      </table>
+
+      <table class="song">
+        <tr><td id="title">AAA</td><td></td>
+        <td class="artist">FLO (<i>Access All Areas</i>)</td></tr>
+      </table>
+
+      <table class="song">
+        <tr><td id="title">In My Bag</td><td></td>
+        <td class="artist">FLO ft. GloRilla (<i>Access All Areas</i>)</td></tr>
+      </table>
+
+      <table class="song">
+        <tr><td id="title">Fly Girl</td><td></td>
+        <td class="artist">FLO</td></tr>
+      </table>
+
+      <table class="song">
+        <tr><td id="title">Cardboard Box</td><td></td>
+        <td class="artist">FLO</td></tr>
       </table>
