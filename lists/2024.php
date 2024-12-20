@@ -916,7 +916,7 @@
 
       <table class="song">
         <tr><td id="title">Fly Girl</td><td></td>
-        <td class="artist">FLO</td></tr>
+        <td class="artist">FLO ft. Missy Elliott</td></tr>
       </table>
 
       <table class="song">
