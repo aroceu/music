@@ -161,6 +161,10 @@
 			  box-shadow: inset 0 -0.4em #999;
 		}
 
+		a.lastfm{
+			box-shadow: none;
+		}
+
 		</style>
 
 		<link rel="stylesheet" href="style.css" type="text/css" media="screen" />
@@ -207,7 +211,7 @@
 
 			<p>Though this is technically an archive of music, it's also a peek into my life. These playlists include subtitles and colors to theme the year, which tend to reflect how I felt about the year and might affect my music-listening habits. I'm still navigating my journey along with everyone else &mdash; but I used to have those profile buttons that said "music is my life/drug" on my old MySpace profile, so this is really just a continuation of that. Full circle and whatnot.</p>
 
-			<p>Anyway, I listen to music the same way I do anything else: by hyperfixating on it regardless of when it came out (though that can have its impacts) and then organizing. This is a result of that. <a href="https://last.fm/user/aroceu" style="vertical-align: text-bottom;"><i class="fa-brands fa-lastfm"></i></a></p>
+			<p>Anyway, I listen to music the same way I do anything else: by hyperfixating on it regardless of when it came out (though that can have its impacts) and then organizing. This is a result of that. <a href="https://last.fm/user/aroceu" style="vertical-align: text-bottom;" class="lastfm"><i class="fa-brands fa-lastfm"></i></a></p>
 
 		</div>
 		
