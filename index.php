@@ -162,11 +162,11 @@
 		}
 
 		a.lastfm:link, a.lastfm:visited, a.lastfm:hover, a.lastfm:focus{
-			box-shadow: none;
+			box-shadow: none!important;
 		}
 
 		a.lastfm:hover, a.lastfm:focus{
-			color: #666;
+			color: #999;
 		}
 
 		</style>
