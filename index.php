@@ -161,8 +161,12 @@
 			  box-shadow: inset 0 -0.4em #999;
 		}
 
-		a.lastfm{
+		a.lastfm:link, a.lastfm:visited, a.lastfm:hover, a.lastfm:focus{
 			box-shadow: none;
+		}
+
+		a.lastfm:hover, a.lastfm:focus{
+			color: #666;
 		}
 
 		</style>
