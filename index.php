@@ -29,6 +29,9 @@
 
 </script>
 
+<!-- FONT AWESOME -->
+<script src="https://kit.fontawesome.com/fbb66f1bce.js" crossorigin="anonymous"></script>
+
     	<title>aroceu's music log</title>
 
 
