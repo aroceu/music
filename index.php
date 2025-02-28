@@ -3,6 +3,7 @@
     <head>
 
     	<meta name="viewport" content="initial-scale=1.0">
+    	<meta name="description" content="just another perverted hobbyist on the internet's music diary"/>
 
     	<link rel="shortcut icon" type="image/x-icon" href="https://aroceu.com/music/music2024.png" />
             <meta name="robots" content="noai, noimageai">
