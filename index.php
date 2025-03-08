@@ -4,7 +4,7 @@
 
     	<meta name="viewport" content="initial-scale=1.0">
 
-    	<link rel="shortcut icon" type="image/x-icon" href="https://aroceu.com/music/music2024.png" />
+    	<link rel="shortcut icon" type="image/x-icon" href="music2024.png" />
             <meta name="robots" content="noai, noimageai">
 
             <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -245,8 +245,8 @@
 	</div>
 
 		<div id="footer">
-			&copy; 2024 <a href="https://aroceu.com">aroceu</a> &#127926; <a href="https://aroceu.com/music">music</a> &gt; <?php  echo basename($_SERVER['PHP_SELF'], ".php"); ?>
-			<br /><a href="https://aroceu.com/atlas">sitemap</a>
+			&copy; 2024 <a href="https://aroceu.com">aroceu</a> &#127926; <a href="../music">music</a> &gt; <?php  echo basename($_SERVER['PHP_SELF'], ".php"); ?>
+			<br /><a href="../atlas">sitemap</a>
 						<p style="letter-spacing: 10px; opacity: 0.3;">↑ ↑ ↓ ↓ ← → ← → B A</p>
 		</div>
 
