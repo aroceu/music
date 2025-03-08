@@ -13,8 +13,13 @@
             <link href="https://fonts.googleapis.com/css2?family=Inconsolata:wght@200..700&family=Cookie&display=swap" rel="stylesheet">
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
             <script type="text/javascript" src="https://aroceu.com/assets/scripts/jquery-1.10.1.min.js"></script>
 <script type="text/javascript" src="https://aroceu.com/assets/scripts/animatedcollapse.js"></script>
+=======
+            <script type="text/javascript" src="../assets/scripts/jquery-1.10.1.min.js"></script>
+<script type="text/javascript" src="../assets/scripts/animatedcollapse.js"></script>
+>>>>>>> Stashed changes
 =======
             <script type="text/javascript" src="../assets/scripts/jquery-1.10.1.min.js"></script>
 <script type="text/javascript" src="../assets/scripts/animatedcollapse.js"></script>
