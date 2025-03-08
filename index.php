@@ -3,7 +3,7 @@
     <head>
 
     	<meta name="viewport" content="initial-scale=1.0">
-    	<meta name="description" content="just another perverted hobbyist on the internet's music diary"/>
+    	<meta name="description" content="hello i am an obsessive writer, website owner, and fujoshi, and this is my house.'s music diary"/>
 
     	<link rel="shortcut icon" type="image/x-icon" href="music2024.png" />
             <meta name="robots" content="noai, noimageai">
