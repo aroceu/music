@@ -73,6 +73,7 @@
 		#menu ul{
 			list-style-type: none;
 			text-align: center;
+			text-transform: lowercase;
 		}
 
 		#menu ul li{
@@ -87,6 +88,13 @@
 			font: normal 180% 'Inconsolata';
 			text-decoration: none;
 			box-shadow: none;
+			transition: background-color 0.3s ease, color 0.3s ease;
+		}
+
+		#menu ul li a:hover, #menu ul li a:focus{
+			background-color: var(--accent);
+			color: var(--accent-light);
+			transition: background-color 0.3s ease, color 0.3s ease;
 		}
 
 		/** year colors - border is the text color, light accent is the background color (with exceptions) **/
@@ -241,6 +249,7 @@
 			<li class="fourteen"><a href="2014">2014</a></li>
 			<li class="thirteen"><a href="2013">2013</a></li>
 			<li class="twelve"><a href="2012">2012</a></li>
+			<li><a href="../kpop">K-Pop</a></li>
 
 		</ul>
 
