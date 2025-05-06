@@ -250,6 +250,7 @@
 			<li class="thirteen"><a href="2013">2013</a></li>
 			<li class="twelve"><a href="2012">2012</a></li>
 			<li><a href="../kpop">K-Pop</a></li>
+			<li><a href="../playlist">Playlist</a></li>
 
 		</ul>
 
