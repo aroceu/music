@@ -11,7 +11,7 @@
 	<meta property="og:url" content="https://aroceu.com/music" />
 	<meta name="viewport" content="initial-scale=1.0, maximum-scale=5, width=device-width">
 
-        <link rel="shortcut icon" type="image/x-icon" href="music2024.png" />
+        <link rel="shortcut icon" type="image/x-icon" href="music2025.png" />
 
             <link rel="preconnect" href="https://fonts.googleapis.com">
             <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
