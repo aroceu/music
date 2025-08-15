@@ -214,7 +214,7 @@
 			<div id="genres">
 
 				<blockquote>
-				<p>A non-exhaustive list of additional musical genres I enjoy: indie (pop/rock/other), folk, Thai pop/rock, ska, country, electronic, musicals/showtunes, video games, classical (the only thing my parents listen to), new wave, comedy, blues, gospel/Christian (I used to go to church and some of those songs still slap), house, trap, swing, someone I dated was really into EDM and dubstep, funk, metal/screamo, mandopop, jrock/jpop... and there's probably more!</p>
+				<p>A non-exhaustive list of additional musical genres I enjoy: indie (pop/rock/other), folk, Thai pop/rock, ska, country, electronic, musicals/showtunes, video games, classical (the only thing my parents listen to), new wave, comedy, satire, parody, blues, gospel/Christian (I used to go to church and some of those songs still slap), house, trap, swing, someone I dated was really into EDM and dubstep, funk, metal/screamo, mandopop, jrock/jpop... and there's probably more!</p>
 
 				<p>I'm also a huge fan of acapellas, covers, mashups, and acapella cover mashups. They're like music "fanfiction" to me &mdash; and you know how much I like fanfiction.</p>
 				</blockquote>
